@@ -8,7 +8,7 @@ Clone the directory from your home directory.
 
 ```
 cd
-git clone https://gitlab.com/stephan-raabe/wallpaper.git
+git clone https://github.com/Kurosu-Code/Wallpaper.git
 cd wallpaper/
 ```
 
